@@ -11,14 +11,14 @@ Prerequisites
 Python 3.7 or higher installed on your system.
 
 ### Installation
-##### Clone the Repository:
+#####  Clone the Repository:
   <pre>
   git clone https://github.com/kavancamp/bookbot.git
   cd bookbot
   </pre>
 ### Prepare the Text File:
-##### Place the text file you want to analyze in the project directory. For example, you can use Frankenstein by Mary Shelley:
-<pre>curl -o frankenstein.txt https://www.gutenberg.org/files/84/84-0.txt</pre>pre>
+#####  Place the text file you want to analyze in the project directory. For example, you can use Frankenstein by Mary Shelley:
+<pre>curl -o frankenstein.txt https://www.gutenberg.org/files/84/84-0.txt</pre>
 
 #### Run the Program:
   <pre>

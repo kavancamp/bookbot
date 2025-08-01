@@ -1,1 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
 /books
+__pycache__
